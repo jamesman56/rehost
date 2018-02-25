@@ -1,0 +1,18 @@
+C:\Users\james\source\repos\ServerHost\ServerHost\bin\ServerHost.dll.config
+C:\Users\james\source\repos\ServerHost\ServerHost\bin\ServerHost.dll
+C:\Users\james\source\repos\ServerHost\ServerHost\bin\ServerHost.pdb
+C:\Users\james\source\repos\ServerHost\ServerHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\james\source\repos\ServerHost\ServerHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\james\source\repos\ServerHost\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\james\source\repos\ServerHost\ServerHost\obj\Debug\ServerHost.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\ServerHost\ServerHost\obj\Debug\ServerHost.dll
+C:\Users\james\source\repos\ServerHost\ServerHost\obj\Debug\ServerHost.pdb
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\bin\ServerHost.dll.config
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\bin\ServerHost.dll
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\bin\ServerHost.pdb
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\obj\Debug\ServerHost.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\obj\Debug\ServerHost.dll
+C:\Users\james\Desktop\ONLY USE THIS AS REPO\rehost-master\ServerHost\obj\Debug\ServerHost.pdb
